@@ -1,5 +1,5 @@
 
-# Linux-Based Mail Server
+## Linux-Based Mail Server
 
 ## Overview
 This project aims to create a command-line email system for Linux. It allows users to send and receive emails through the Linux terminal, making email automation, scripting, and customization accessible. The mail server utilizes open-source technologies, ensuring security, privacy, and compatibility across different Linux distributions.
